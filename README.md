@@ -1,2 +1,2 @@
 # myliberty
-Test docker Liberty
+Test docker Liberty Rel 2
